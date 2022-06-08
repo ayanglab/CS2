@@ -37,8 +37,8 @@ torchvision==0.10.0
 ## Citation
 This repository partially based on:
 
-pix2pixHD: High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs ([code](https://github.com/NVIDIA/pix2pixHD) and 
+-pix2pixHD: High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs ([code](https://github.com/NVIDIA/pix2pixHD) and 
 [paper](https://arxiv.org/abs/1711.11585));
 
-An implementation of Unsupervised Image Segmentation by Backpropagation: Faster and more elegant than origin version（[code](https://github.com/Yonv1943/Unsupervised-Segmentation) and [paper]([https://arxiv.org/abs/1711.11585](https://kanezaki.github.io/pytorch-unsupervised-segmentation/ICASSP2018_kanezaki.pdf)))
+-An implementation of Unsupervised Image Segmentation by Backpropagation: Faster and more elegant than origin version（[code](https://github.com/Yonv1943/Unsupervised-Segmentation) and [paper]([https://arxiv.org/abs/1711.11585](https://kanezaki.github.io/pytorch-unsupervised-segmentation/ICASSP2018_kanezaki.pdf))
 
